@@ -1,5 +1,3 @@
-# 🏡 91acres - Real Estate Responsive Website
-
 ## 💻 Tech Stack Used
 
 - Frontend Framework: **React.js** ⚛️
